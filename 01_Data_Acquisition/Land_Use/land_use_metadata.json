@@ -1,0 +1,43 @@
+{
+  "dataset_name": "Land Stack Simulated Land Use & Land Cover (LULC)",
+  "version": "1.0.0",
+  "spatial_coverage": [
+    "Maharashtra",
+    "Punjab",
+    "Gujarat"
+  ],
+  "crs": "EPSG:4326 (WGS 84 - 2D Geographic Coordinate Reference System)",
+  "total_records": 5250,
+  "classes_represented": [
+    "Built-up Area",
+    "Cropland",
+    "Barren Land",
+    "Plantation",
+    "Fallow Land",
+    "Grassland",
+    "Forest"
+  ],
+  "classification_method": "Simulated Random Forest Cadastral Zonal Aggregation",
+  "raster_simulation_spec": {
+    "nominal_ground_resolution": "10 meters",
+    "spectral_bands": [
+      "Blue",
+      "Green",
+      "Red",
+      "NIR",
+      "SWIR-1",
+      "SWIR-2"
+    ],
+    "indices": [
+      "NDVI",
+      "NDWI",
+      "NDBI"
+    ],
+    "synthetic_disclaimer": "Simulated vector classification layer. Not derived from actual proprietary commercial satellite imagery."
+  },
+  "accuracy_metrics": {
+    "simulated_mean_confidence": 0.9198,
+    "simulated_overall_accuracy": "91.4%"
+  },
+  "data_status": "SYNTHETIC"
+}

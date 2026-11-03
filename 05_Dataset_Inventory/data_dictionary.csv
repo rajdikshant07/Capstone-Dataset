@@ -1,0 +1,48 @@
+dataset,field_name,datatype,nullable,is_primary_key,foreign_key,description,sample_value
+parcels,parcel_id,VARCHAR(32),NO,YES,N/A (Primary Key),Unique synthesized cadastral parcel identifier (PRCL_{st}_{dt}_{vil}_{seq}),PRCL_27_01_001_0001
+parcels,state_id,VARCHAR(4),NO,NO,states(state_id),"Two-letter state identifier (MH, PB, GJ)",MH
+parcels,state_name,VARCHAR(64),NO,NO,N/A (Descriptive Field),Full formal name of the Indian State,Maharashtra
+parcels,district_id,VARCHAR(16),NO,NO,districts(district_id),Unique district code within the state,MH_PUN
+parcels,district_name,VARCHAR(64),NO,NO,N/A (Descriptive Field),Name of the revenue district,Pune
+parcels,village_id,VARCHAR(24),NO,NO,villages(village_id),Unique village code within the district,VIL_MH_PUN_001
+parcels,village_name,VARCHAR(64),NO,NO,N/A (Descriptive Field),Name of the revenue village or mauza,Wagholi
+parcels,survey_number,VARCHAR(32),NO,NO,N/A (Descriptive Field),Cadastral survey number formatted per state conventions,Gat No. 12
+parcels,sub_survey_number,VARCHAR(16),NO,NO,N/A (Descriptive Field),"Sub-division, pot-hissa, or kila number",1
+parcels,parcel_number,INTEGER,NO,NO,N/A (Sequence Number),Sequential parcel number within the village cadastre,1
+parcels,land_type,VARCHAR(32),NO,NO,N/A (Taxonomy),"Broad statutory classification (Agricultural, Non-Agricultural, etc.)",Agricultural
+parcels,land_use_category,VARCHAR(32),NO,NO,N/A (Taxonomy),Specific functional land use category,Residential
+parcels,area_sq_m,"NUMERIC(14,2)",NO,NO,N/A (Geometric Metric),True geodesic parcel polygon area in square meters,1254.50
+parcels,area_hectares,"NUMERIC(10,4)",NO,NO,N/A (Derived Metric),Geodesic parcel area converted to hectares (sq.m / 10000),0.1255
+parcels,perimeter_m,"NUMERIC(12,2)",NO,NO,N/A (Derived Metric),True geodesic boundary perimeter in meters,142.30
+parcels,centroid_latitude,"NUMERIC(9,6)",NO,NO,N/A (Coordinate Component),Latitude coordinate of polygon centroid (WGS84 EPSG:4326),18.524510
+parcels,centroid_longitude,"NUMERIC(9,6)",NO,NO,N/A (Coordinate Component),Longitude coordinate of polygon centroid (WGS84 EPSG:4326),73.861230
+parcels,simulated_ulpin,VARCHAR(14),NO,NO,ulpin_records(ulpin),14-character unique simulated parcel identification number,2701001A8B2C4D
+parcels,record_status,VARCHAR(24),NO,NO,N/A (Status Flag),Current administrative status of parcel record,Active
+parcels,created_at,DATE,NO,NO,N/A (Audit Timestamp),Record creation timestamp,2022-04-14
+parcels,updated_at,DATE,NO,NO,N/A (Audit Timestamp),Record last modification timestamp,2024-02-18
+parcels,data_status,VARCHAR(16),NO,NO,N/A (Provenance Flag),Provenance status flag (SYNTHETIC),SYNTHETIC
+ownership_records,owner_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique simulated owner identifier,OWN_MH_000104
+ownership_records,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+ownership_records,simulated_ulpin,VARCHAR(14),NO,NO,ulpin_records(ulpin),Foreign key reference to simulated ULPIN,2701001A8B2C4D
+ownership_records,owner_name,VARCHAR(255),NO,NO,N/A (Titleholder Entity),Synthesized fictional individual or corporate owner name,Ramesh Patil
+ownership_records,ownership_type,VARCHAR(24),NO,NO,N/A (Taxonomy),"Classification: Individual, Joint, Company, Government, Trust",Individual
+ownership_records,ownership_percentage,"NUMERIC(5,2)",NO,NO,N/A (Fractional Share),Fractional share percentage (100.0 for sole owner),100.00
+ror_records,ror_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique simulated Record of Rights certificate identifier,ROR_MH_000001
+ror_records,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+ror_records,primary_owner_id,VARCHAR(24),NO,NO,ownership_records(owner_id),Foreign key reference to primary Khatedar,OWN_MH_000001
+property_registration,registration_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique registered deed transaction identifier,REG_MH_000001
+property_registration,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+property_registration,transaction_value_inr,"NUMERIC(14,2)",NO,NO,N/A (Monetary Value),Declared property consideration value in INR,4500000.00
+property_tax,tax_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique annual tax assessment bill identifier,TAX_MH_0000001
+property_tax,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+property_tax,financial_year,VARCHAR(12),NO,NO,N/A (Accounting Period),Assessment assessment financial year,2024-2025
+property_tax,total_payable_inr,"NUMERIC(12,2)",NO,NO,N/A (Monetary Demand),Net payable tax amount including statutory penalties,1250.00
+mortgages_encumbrances,encumbrance_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique encumbrance registration identifier,ENC_MH_000001
+mortgages_encumbrances,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+mortgages_encumbrances,loan_amount_inr,"NUMERIC(14,2)",NO,NO,N/A (Credit Charge),Sanctioned institutional credit charge in INR,850000.00
+building_permits,permit_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique building sanction permit identifier,BP_MH_000001
+building_permits,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+land_restrictions,restriction_id,VARCHAR(24),NO,YES,N/A (Primary Key),Unique statutory / legal encumbrance order identifier,RES_MH_00001
+land_restrictions,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001
+audit_history,audit_id,VARCHAR(24),NO,YES,N/A (Primary Key),Immutable ledger sequence event identifier,AUD_MH_0000001
+audit_history,parcel_id,VARCHAR(32),NO,NO,parcels(parcel_id),Foreign key reference to parcel record,PRCL_27_01_001_0001

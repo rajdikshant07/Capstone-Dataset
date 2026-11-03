@@ -1,0 +1,671 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "MH_PUN",
+        "district_code": "01",
+        "district_name": "Pune",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "headquarters": "Pune",
+        "latitude": 18.5204,
+        "longitude": 73.8567,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.1067,
+              18.3004
+            ],
+            [
+              74.1067,
+              18.740399999999998
+            ],
+            [
+              73.6067,
+              18.740399999999998
+            ],
+            [
+              73.6067,
+              18.3004
+            ],
+            [
+              74.1067,
+              18.3004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "MH_NAG",
+        "district_code": "02",
+        "district_name": "Nagpur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "headquarters": "Nagpur",
+        "latitude": 21.1458,
+        "longitude": 79.0882,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.3382,
+              20.925800000000002
+            ],
+            [
+              79.3382,
+              21.3658
+            ],
+            [
+              78.8382,
+              21.3658
+            ],
+            [
+              78.8382,
+              20.925800000000002
+            ],
+            [
+              79.3382,
+              20.925800000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "MH_NSK",
+        "district_code": "03",
+        "district_name": "Nashik",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "headquarters": "Nashik",
+        "latitude": 19.9975,
+        "longitude": 73.7898,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.0398,
+              19.7775
+            ],
+            [
+              74.0398,
+              20.217499999999998
+            ],
+            [
+              73.5398,
+              20.217499999999998
+            ],
+            [
+              73.5398,
+              19.7775
+            ],
+            [
+              74.0398,
+              19.7775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "MH_CSN",
+        "district_code": "04",
+        "district_name": "Chhatrapati Sambhajinagar",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "headquarters": "Chhatrapati Sambhajinagar",
+        "latitude": 19.8762,
+        "longitude": 75.3433,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5933,
+              19.656200000000002
+            ],
+            [
+              75.5933,
+              20.0962
+            ],
+            [
+              75.0933,
+              20.0962
+            ],
+            [
+              75.0933,
+              19.656200000000002
+            ],
+            [
+              75.5933,
+              19.656200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "MH_KOL",
+        "district_code": "05",
+        "district_name": "Kolhapur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "headquarters": "Kolhapur",
+        "latitude": 16.705,
+        "longitude": 74.2433,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.4933,
+              16.485
+            ],
+            [
+              74.4933,
+              16.924999999999997
+            ],
+            [
+              73.9933,
+              16.924999999999997
+            ],
+            [
+              73.9933,
+              16.485
+            ],
+            [
+              74.4933,
+              16.485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "PB_ASR",
+        "district_code": "01",
+        "district_name": "Amritsar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "headquarters": "Amritsar",
+        "latitude": 31.634,
+        "longitude": 74.8723,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.1223,
+              31.414
+            ],
+            [
+              75.1223,
+              31.854
+            ],
+            [
+              74.6223,
+              31.854
+            ],
+            [
+              74.6223,
+              31.414
+            ],
+            [
+              75.1223,
+              31.414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "PB_LDH",
+        "district_code": "02",
+        "district_name": "Ludhiana",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "headquarters": "Ludhiana",
+        "latitude": 30.901,
+        "longitude": 75.8573,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1073,
+              30.681
+            ],
+            [
+              76.1073,
+              31.121
+            ],
+            [
+              75.6073,
+              31.121
+            ],
+            [
+              75.6073,
+              30.681
+            ],
+            [
+              76.1073,
+              30.681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "PB_JAL",
+        "district_code": "03",
+        "district_name": "Jalandhar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "headquarters": "Jalandhar",
+        "latitude": 31.326,
+        "longitude": 75.5762,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8262,
+              31.106
+            ],
+            [
+              75.8262,
+              31.546
+            ],
+            [
+              75.3262,
+              31.546
+            ],
+            [
+              75.3262,
+              31.106
+            ],
+            [
+              75.8262,
+              31.106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "PB_PTA",
+        "district_code": "04",
+        "district_name": "Patiala",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "headquarters": "Patiala",
+        "latitude": 30.3398,
+        "longitude": 76.3869,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.6369,
+              30.1198
+            ],
+            [
+              76.6369,
+              30.5598
+            ],
+            [
+              76.1369,
+              30.5598
+            ],
+            [
+              76.1369,
+              30.1198
+            ],
+            [
+              76.6369,
+              30.1198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "PB_BTI",
+        "district_code": "05",
+        "district_name": "Bathinda",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "headquarters": "Bathinda",
+        "latitude": 30.211,
+        "longitude": 74.9455,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.1955,
+              29.991
+            ],
+            [
+              75.1955,
+              30.430999999999997
+            ],
+            [
+              74.6955,
+              30.430999999999997
+            ],
+            [
+              74.6955,
+              29.991
+            ],
+            [
+              75.1955,
+              29.991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "GJ_AMD",
+        "district_code": "01",
+        "district_name": "Ahmedabad",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "headquarters": "Ahmedabad",
+        "latitude": 23.0225,
+        "longitude": 72.5714,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8214,
+              22.802500000000002
+            ],
+            [
+              72.8214,
+              23.2425
+            ],
+            [
+              72.3214,
+              23.2425
+            ],
+            [
+              72.3214,
+              22.802500000000002
+            ],
+            [
+              72.8214,
+              22.802500000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "GJ_SRT",
+        "district_code": "02",
+        "district_name": "Surat",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "headquarters": "Surat",
+        "latitude": 21.1702,
+        "longitude": 72.8311,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0811,
+              20.950200000000002
+            ],
+            [
+              73.0811,
+              21.3902
+            ],
+            [
+              72.5811,
+              21.3902
+            ],
+            [
+              72.5811,
+              20.950200000000002
+            ],
+            [
+              73.0811,
+              20.950200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "GJ_BRD",
+        "district_code": "03",
+        "district_name": "Vadodara",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "headquarters": "Vadodara",
+        "latitude": 22.3072,
+        "longitude": 73.1812,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4312,
+              22.087200000000003
+            ],
+            [
+              73.4312,
+              22.5272
+            ],
+            [
+              72.9312,
+              22.5272
+            ],
+            [
+              72.9312,
+              22.087200000000003
+            ],
+            [
+              73.4312,
+              22.087200000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "GJ_RJT",
+        "district_code": "04",
+        "district_name": "Rajkot",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "headquarters": "Rajkot",
+        "latitude": 22.3039,
+        "longitude": 70.8022,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.0522,
+              22.0839
+            ],
+            [
+              71.0522,
+              22.523899999999998
+            ],
+            [
+              70.5522,
+              22.523899999999998
+            ],
+            [
+              70.5522,
+              22.0839
+            ],
+            [
+              71.0522,
+              22.0839
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_id": "GJ_GND",
+        "district_code": "05",
+        "district_name": "Gandhinagar",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "headquarters": "Gandhinagar",
+        "latitude": 23.2156,
+        "longitude": 72.6369,
+        "sample_village_count": 5,
+        "boundary_type": "SYNTHETIC_ENVELOPE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic district anchor for Land Stack simulation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8869,
+              22.9956
+            ],
+            [
+              72.8869,
+              23.435599999999997
+            ],
+            [
+              72.3869,
+              23.435599999999997
+            ],
+            [
+              72.3869,
+              22.9956
+            ],
+            [
+              72.8869,
+              22.9956
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

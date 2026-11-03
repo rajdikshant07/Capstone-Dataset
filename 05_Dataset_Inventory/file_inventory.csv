@@ -1,0 +1,88 @@
+relative_path,file_name,category,file_format,file_size_bytes,file_size_formatted,data_status
+config.py,config.py,Documentation,PY,23653,23.1 KB,DOCUMENTATION/SCRIPT
+README.md,README.md,Documentation,MD,13412,13.1 KB,DOCUMENTATION/SCRIPT
+requirements.txt,requirements.txt,Documentation,TXT,303,0.3 KB,DOCUMENTATION/SCRIPT
+run_all.py,run_all.py,Documentation,PY,5852,5.7 KB,DOCUMENTATION/SCRIPT
+01_Data_Acquisition/Administrative_Geography/districts.csv,districts.csv,Spatial Data Acquisition,CSV,2412,2.4 KB,SYNTHETIC
+01_Data_Acquisition/Administrative_Geography/districts.geojson,districts.geojson,Spatial Data Acquisition,GEOJSON,16298,15.9 KB,SYNTHETIC
+01_Data_Acquisition/Administrative_Geography/states.csv,states.csv,Spatial Data Acquisition,CSV,760,0.7 KB,SYNTHETIC
+01_Data_Acquisition/Administrative_Geography/states.geojson,states.geojson,Spatial Data Acquisition,GEOJSON,3565,3.5 KB,SYNTHETIC
+01_Data_Acquisition/Administrative_Geography/villages.csv,villages.csv,Spatial Data Acquisition,CSV,14187,13.9 KB,SYNTHETIC
+01_Data_Acquisition/Administrative_Geography/villages.geojson,villages.geojson,Spatial Data Acquisition,GEOJSON,92026,89.9 KB,SYNTHETIC
+01_Data_Acquisition/Land_Use/land_use.csv,land_use.csv,Spatial Data Acquisition,CSV,1865367,1.78 MB,SYNTHETIC
+01_Data_Acquisition/Land_Use/land_use.geojson,land_use.geojson,Spatial Data Acquisition,GEOJSON,5694136,5.43 MB,SYNTHETIC
+01_Data_Acquisition/Land_Use/land_use_metadata.json,land_use_metadata.json,Spatial Data Acquisition,JSON,1090,1.1 KB,SYNTHETIC
+01_Data_Acquisition/Parcel_Data/parcels.csv,parcels.csv,Spatial Data Acquisition,CSV,2491711,2.38 MB,SYNTHETIC
+01_Data_Acquisition/Parcel_Data/parcels.geojson,parcels.geojson,Spatial Data Acquisition,GEOJSON,5148872,4.91 MB,SYNTHETIC
+01_Data_Acquisition/Parcel_Data/parcel_attributes.csv,parcel_attributes.csv,Spatial Data Acquisition,CSV,1130994,1.08 MB,SYNTHETIC
+01_Data_Acquisition/Parcel_Data/parcel_geometry_metadata.csv,parcel_geometry_metadata.csv,Spatial Data Acquisition,CSV,971915,949.1 KB,SYNTHETIC
+01_Data_Acquisition/Roads/roads.csv,roads.csv,Spatial Data Acquisition,CSV,92958,90.8 KB,SYNTHETIC
+01_Data_Acquisition/Roads/roads.geojson,roads.geojson,Spatial Data Acquisition,GEOJSON,387612,378.5 KB,SYNTHETIC
+01_Data_Acquisition/Source_Documentation/dataset_source_log.csv,dataset_source_log.csv,Spatial Data Acquisition,CSV,5283,5.2 KB,SYNTHETIC
+01_Data_Acquisition/Source_Documentation/dataset_source_log.xlsx,dataset_source_log.xlsx,Spatial Data Acquisition,XLSX,7206,7.0 KB,DOCUMENTATION/SCRIPT
+01_Data_Acquisition/Source_Documentation/public_data_sources_reference.md,public_data_sources_reference.md,Spatial Data Acquisition,MD,5656,5.5 KB,DOCUMENTATION/SCRIPT
+01_Data_Acquisition/Survey_Records/state_survey_config.json,state_survey_config.json,Spatial Data Acquisition,JSON,664,0.6 KB,SYNTHETIC
+01_Data_Acquisition/Survey_Records/survey_numbers.csv,survey_numbers.csv,Spatial Data Acquisition,CSV,1110453,1.06 MB,SYNTHETIC
+01_Data_Acquisition/Utilities/utilities.csv,utilities.csv,Spatial Data Acquisition,CSV,197171,192.5 KB,SYNTHETIC
+01_Data_Acquisition/Utilities/utilities.geojson,utilities.geojson,Spatial Data Acquisition,GEOJSON,768815,750.8 KB,SYNTHETIC
+01_Data_Acquisition/Water_Bodies/water_bodies.csv,water_bodies.csv,Spatial Data Acquisition,CSV,22165,21.6 KB,SYNTHETIC
+01_Data_Acquisition/Water_Bodies/water_bodies.geojson,water_bodies.geojson,Spatial Data Acquisition,GEOJSON,253296,247.4 KB,SYNTHETIC
+02_Synthetic_Departmental_Records/Audit_History/audit_history.csv,audit_history.csv,Departmental Records,CSV,1159420,1.11 MB,SYNTHETIC
+02_Synthetic_Departmental_Records/Building_Permits/building_permits.csv,building_permits.csv,Departmental Records,CSV,257259,251.2 KB,SYNTHETIC
+02_Synthetic_Departmental_Records/Land_Restrictions/land_restrictions.csv,land_restrictions.csv,Departmental Records,CSV,165839,162.0 KB,SYNTHETIC
+02_Synthetic_Departmental_Records/Land_Restrictions/land_restrictions.geojson,land_restrictions.geojson,Departmental Records,GEOJSON,719740,702.9 KB,SYNTHETIC
+02_Synthetic_Departmental_Records/Mortgages/mortgages_encumbrances.csv,mortgages_encumbrances.csv,Departmental Records,CSV,329244,321.5 KB,SYNTHETIC
+02_Synthetic_Departmental_Records/Ownership/ownership_records.csv,ownership_records.csv,Departmental Records,CSV,1702039,1.62 MB,SYNTHETIC
+02_Synthetic_Departmental_Records/Property_Tax/property_tax.csv,property_tax.csv,Departmental Records,CSV,2385522,2.28 MB,SYNTHETIC
+02_Synthetic_Departmental_Records/Registration/property_registration.csv,property_registration.csv,Departmental Records,CSV,634392,619.5 KB,SYNTHETIC
+02_Synthetic_Departmental_Records/RoR/ror_records.csv,ror_records.csv,Departmental Records,CSV,1951050,1.86 MB,SYNTHETIC
+03_ULPIN_Simulation/ulpin_generator.py,ulpin_generator.py,ULPIN Simulation,PY,4410,4.3 KB,DOCUMENTATION/SCRIPT
+03_ULPIN_Simulation/ulpin_records.csv,ulpin_records.csv,ULPIN Simulation,CSV,1416549,1.35 MB,SYNTHETIC
+03_ULPIN_Simulation/ulpin_validation_report.json,ulpin_validation_report.json,ULPIN Simulation,JSON,568,0.6 KB,SYNTHETIC
+04_State_Mapping_Template/field_mapping_rules.json,field_mapping_rules.json,State Mapping,JSON,14077,13.7 KB,SYNTHETIC
+04_State_Mapping_Template/state_mapping_template.csv,state_mapping_template.csv,State Mapping,CSV,6745,6.6 KB,SYNTHETIC
+04_State_Mapping_Template/state_mapping_template.xlsx,state_mapping_template.xlsx,State Mapping,XLSX,8330,8.1 KB,DOCUMENTATION/SCRIPT
+04_State_Mapping_Template/state_schema_variations.md,state_schema_variations.md,State Mapping,MD,3964,3.9 KB,DOCUMENTATION/SCRIPT
+05_Dataset_Inventory/data_dictionary.csv,data_dictionary.csv,Inventory & Metadata,CSV,5392,5.3 KB,SYNTHETIC
+05_Dataset_Inventory/file_inventory.csv,file_inventory.csv,Inventory & Metadata,CSV,11790,11.5 KB,SYNTHETIC
+05_Dataset_Inventory/module1_dataset_inventory.xlsx,module1_dataset_inventory.xlsx,Inventory & Metadata,XLSX,566827,553.5 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/dataset_summary.json,dataset_summary.json,Data Exploration,JSON,2945,2.9 KB,SYNTHETIC
+06_Initial_Data_Exploration/data_exploration_report.md,data_exploration_report.md,Data Exploration,MD,5639,5.5 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/initial_data_exploration.py,initial_data_exploration.py,Data Exploration,PY,20568,20.1 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/initial_exploration_report.xlsx,initial_exploration_report.xlsx,Data Exploration,XLSX,8412,8.2 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/charts/departmental_records_distribution.png,departmental_records_distribution.png,Data Exploration,PNG,142652,139.3 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/charts/land_use_distribution.png,land_use_distribution.png,Data Exploration,PNG,140657,137.4 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/charts/ownership_distribution.png,ownership_distribution.png,Data Exploration,PNG,117834,115.1 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/charts/parcels_by_district.png,parcels_by_district.png,Data Exploration,PNG,164717,160.9 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/charts/parcels_by_state.png,parcels_by_state.png,Data Exploration,PNG,78415,76.6 KB,DOCUMENTATION/SCRIPT
+06_Initial_Data_Exploration/charts/parcel_area_distribution.png,parcel_area_distribution.png,Data Exploration,PNG,84020,82.1 KB,DOCUMENTATION/SCRIPT
+07_Data_Quality/data_quality_checks.py,data_quality_checks.py,Quality Assurance,PY,10885,10.6 KB,DOCUMENTATION/SCRIPT
+07_Data_Quality/data_quality_report.json,data_quality_report.json,Quality Assurance,JSON,779,0.8 KB,SYNTHETIC
+07_Data_Quality/data_quality_report.xlsx,data_quality_report.xlsx,Quality Assurance,XLSX,6467,6.3 KB,DOCUMENTATION/SCRIPT
+07_Data_Quality/validation_errors.csv,validation_errors.csv,Quality Assurance,CSV,158,0.2 KB,SYNTHETIC
+08_Generation_Scripts/individual_generation_scripts/01_generate_administrative.py,01_generate_administrative.py,Code & Scripts,PY,6778,6.6 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/02_generate_parcels.py,02_generate_parcels.py,Code & Scripts,PY,14425,14.1 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/03_generate_survey_numbers.py,03_generate_survey_numbers.py,Code & Scripts,PY,3396,3.3 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/04_generate_ulpin.py,04_generate_ulpin.py,Code & Scripts,PY,3274,3.2 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/05_generate_land_use.py,05_generate_land_use.py,Code & Scripts,PY,5675,5.5 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/06_generate_roads.py,06_generate_roads.py,Code & Scripts,PY,9027,8.8 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/07_generate_water_bodies.py,07_generate_water_bodies.py,Code & Scripts,PY,7751,7.6 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/08_generate_utilities.py,08_generate_utilities.py,Code & Scripts,PY,8182,8.0 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/09_generate_ownership.py,09_generate_ownership.py,Code & Scripts,PY,10093,9.9 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/10_generate_ror.py,10_generate_ror.py,Code & Scripts,PY,6271,6.1 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/11_generate_registration.py,11_generate_registration.py,Code & Scripts,PY,4941,4.8 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/12_generate_property_tax.py,12_generate_property_tax.py,Code & Scripts,PY,4728,4.6 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/13_generate_mortgages.py,13_generate_mortgages.py,Code & Scripts,PY,3889,3.8 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/14_generate_building_permits.py,14_generate_building_permits.py,Code & Scripts,PY,5296,5.2 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/15_generate_land_restrictions.py,15_generate_land_restrictions.py,Code & Scripts,PY,5509,5.4 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/16_generate_audit_history.py,16_generate_audit_history.py,Code & Scripts,PY,4781,4.7 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/17_generate_state_mapping.py,17_generate_state_mapping.py,Code & Scripts,PY,20241,19.8 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/18_generate_source_log.py,18_generate_source_log.py,Code & Scripts,PY,17090,16.7 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/19_generate_dataset_inventory.py,19_generate_dataset_inventory.py,Code & Scripts,PY,25668,25.1 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/19_run_initial_exploration.py,19_run_initial_exploration.py,Code & Scripts,PY,388,0.4 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/individual_generation_scripts/20_run_data_quality_checks.py,20_run_data_quality_checks.py,Code & Scripts,PY,370,0.4 KB,DOCUMENTATION/SCRIPT
+08_Generation_Scripts/logs/generation_pipeline.log,generation_pipeline.log,Code & Scripts,LOG,4156,4.1 KB,DOCUMENTATION/SCRIPT
+docs/Dataset_Data_Dictionary.md,Dataset_Data_Dictionary.md,Documentation,MD,14477,14.1 KB,DOCUMENTATION/SCRIPT
+docs/Dataset_Provenance_Report.md,Dataset_Provenance_Report.md,Documentation,MD,5089,5.0 KB,DOCUMENTATION/SCRIPT
+docs/Module1_Completion_Report.md,Module1_Completion_Report.md,Documentation,MD,7806,7.6 KB,DOCUMENTATION/SCRIPT
+docs/Module1_Technical_Documentation.md,Module1_Technical_Documentation.md,Documentation,MD,15345,15.0 KB,DOCUMENTATION/SCRIPT

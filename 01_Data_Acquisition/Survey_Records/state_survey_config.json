@@ -1,0 +1,23 @@
+{
+  "MH": {
+    "term": "Gat / Survey Number",
+    "primary_format": "Gat No. {num}",
+    "sub_format": "{sub}",
+    "ror_document": "7/12 Extract (Saat Baara)",
+    "tax_term": "Akarani / Assessment"
+  },
+  "PB": {
+    "term": "Khasra Number",
+    "primary_format": "Khasra No. {num}",
+    "sub_format": "{mustatil}//{kila}",
+    "ror_document": "Jamabandi Nakal",
+    "tax_term": "Chullah Tax / Municipal House Tax"
+  },
+  "GJ": {
+    "term": "Survey / Block Number",
+    "primary_format": "Block No. {num}",
+    "sub_format": "P{sub}",
+    "ror_document": "Village Form 7/12 (VF-7/12)",
+    "tax_term": "Jameen Mehsul / Land Revenue"
+  }
+}

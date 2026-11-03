@@ -1,0 +1,19 @@
+{
+  "total_records": 5250,
+  "unique_records": 5250,
+  "duplicate_count": 0,
+  "is_100_percent_unique": true,
+  "all_14_chars_alphanumeric": true,
+  "validation_status": "PASSED",
+  "timestamp": "2026-11-02T19:01:53.088875+00:00",
+  "total_parcels_mapped": 5250,
+  "state_distribution": {
+    "MH": 1750,
+    "PB": 1750,
+    "GJ": 1750
+  },
+  "identifier_length": 14,
+  "character_encoding": "Base36 (0-9, A-Z)",
+  "collision_rate_percent": 0.0,
+  "disclaimer": "Simulation only. Not tested against proprietary GoI NIC/Survey of India server keys."
+}

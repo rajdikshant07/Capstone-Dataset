@@ -1,0 +1,76 @@
+village_id,village_code,village_name,district_id,district_name,state_id,state_name,village_type,population_category,target_parcel_count,centroid_latitude,centroid_longitude,boundary_type,data_status,provenance
+VIL_MH_PUN_001,001,Wagholi,MH_PUN,Pune,MH,Maharashtra,Peri-Urban,Medium,70,18.5654,73.9387,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_PUN_002,002,Manchar,MH_PUN,Pune,MH,Maharashtra,Rural,Small,70,18.6404,73.8067,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_PUN_003,003,Hinjawadi,MH_PUN,Pune,MH,Maharashtra,Urban,High,70,18.5904,73.7467,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_PUN_004,004,Shirur,MH_PUN,Pune,MH,Maharashtra,Rural,Medium,70,18.6304,74.0067,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_PUN_005,005,Baramati,MH_PUN,Pune,MH,Maharashtra,Peri-Urban,High,70,18.3704,73.9767,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NAG_001,001,Kalmeshwar,MH_NAG,Nagpur,MH,Maharashtra,Peri-Urban,Medium,70,21.2358,79.0182,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NAG_002,002,Saoner,MH_NAG,Nagpur,MH,Maharashtra,Rural,Small,70,21.2858,79.1182,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NAG_003,003,Hingna,MH_NAG,Nagpur,MH,Maharashtra,Urban,High,70,21.0858,79.0382,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NAG_004,004,Kamptee,MH_NAG,Nagpur,MH,Maharashtra,Peri-Urban,High,70,21.2158,79.1682,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NAG_005,005,Umred,MH_NAG,Nagpur,MH,Maharashtra,Rural,Medium,70,21.0358,79.1782,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NSK_001,001,Ozar,MH_NSK,Nashik,MH,Maharashtra,Peri-Urban,Medium,70,20.0575,73.8698,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NSK_002,002,Sinnar,MH_NSK,Nashik,MH,Maharashtra,Rural,Medium,70,19.9175,73.8498,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NSK_003,003,Dindori,MH_NSK,Nashik,MH,Maharashtra,Rural,Small,70,20.1175,73.7498,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NSK_004,004,Niphad,MH_NSK,Nashik,MH,Maharashtra,Rural,Medium,70,20.0475,73.9398,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_NSK_005,005,Igatpuri,MH_NSK,Nashik,MH,Maharashtra,Peri-Urban,Small,70,19.8775,73.7098,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_CSN_001,001,Paithan,MH_CSN,Chhatrapati Sambhajinagar,MH,Maharashtra,Peri-Urban,Medium,70,19.7562,75.3833,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_CSN_002,002,Gangapur,MH_CSN,Chhatrapati Sambhajinagar,MH,Maharashtra,Rural,Small,70,19.8462,75.2233,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_CSN_003,003,Vaijapur,MH_CSN,Chhatrapati Sambhajinagar,MH,Maharashtra,Rural,Medium,70,19.9262,75.1933,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_CSN_004,004,Khuldabad,MH_CSN,Chhatrapati Sambhajinagar,MH,Maharashtra,Rural,Small,70,19.9562,75.3033,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_CSN_005,005,Kannad,MH_CSN,Chhatrapati Sambhajinagar,MH,Maharashtra,Peri-Urban,Medium,70,20.0262,75.3133,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_KOL_001,001,Panhala,MH_KOL,Kolhapur,MH,Maharashtra,Rural,Small,70,16.775,74.1533,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_KOL_002,002,Karveer,MH_KOL,Kolhapur,MH,Maharashtra,Peri-Urban,High,70,16.725,74.2833,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_KOL_003,003,Hatkanangle,MH_KOL,Kolhapur,MH,Maharashtra,Peri-Urban,High,70,16.755,74.3633,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_KOL_004,004,Shirol,MH_KOL,Kolhapur,MH,Maharashtra,Rural,Medium,70,16.745,74.4233,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_MH_KOL_005,005,Radhanagari,MH_KOL,Kolhapur,MH,Maharashtra,Rural,Small,70,16.565,74.1833,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_ASR_001,001,Ajnala,PB_ASR,Amritsar,PB,Punjab,Rural,Medium,70,31.784,74.8223,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_ASR_002,002,Majitha,PB_ASR,Amritsar,PB,Punjab,Peri-Urban,Medium,70,31.714,74.9323,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_ASR_003,003,Attari,PB_ASR,Amritsar,PB,Punjab,Rural,Small,70,31.594,74.7323,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_ASR_004,004,Jandiala Guru,PB_ASR,Amritsar,PB,Punjab,Peri-Urban,High,70,31.584,74.9523,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_ASR_005,005,Rayya,PB_ASR,Amritsar,PB,Punjab,Rural,Medium,70,31.554,75.0123,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_LDH_001,001,Khanna,PB_LDH,Ludhiana,PB,Punjab,Urban,High,70,30.821,76.0373,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_LDH_002,002,Jagraon,PB_LDH,Ludhiana,PB,Punjab,Peri-Urban,High,70,30.861,75.7073,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_LDH_003,003,Samrala,PB_LDH,Ludhiana,PB,Punjab,Rural,Medium,70,30.941,75.9973,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_LDH_004,004,Raikot,PB_LDH,Ludhiana,PB,Punjab,Rural,Medium,70,30.761,75.7773,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_LDH_005,005,Payal,PB_LDH,Ludhiana,PB,Punjab,Rural,Small,70,30.781,75.9273,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_JAL_001,001,Nakodar,PB_JAL,Jalandhar,PB,Punjab,Peri-Urban,High,70,31.206,75.5162,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_JAL_002,002,Phillaur,PB_JAL,Jalandhar,PB,Punjab,Rural,Medium,70,31.166,75.6662,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_JAL_003,003,Shahkot,PB_JAL,Jalandhar,PB,Punjab,Rural,Small,70,31.226,75.4362,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_JAL_004,004,Goraya,PB_JAL,Jalandhar,PB,Punjab,Peri-Urban,Medium,70,31.186,75.6162,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_JAL_005,005,Kartarpur,PB_JAL,Jalandhar,PB,Punjab,Peri-Urban,Medium,70,31.396,75.4962,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_PTA_001,001,Nabha,PB_PTA,Patiala,PB,Punjab,Peri-Urban,High,70,30.3698,76.2369,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_PTA_002,002,Rajpura,PB_PTA,Patiala,PB,Punjab,Urban,High,70,30.4598,76.5269,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_PTA_003,003,Samana,PB_PTA,Patiala,PB,Punjab,Rural,Medium,70,30.2198,76.2969,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_PTA_004,004,Sanaur,PB_PTA,Patiala,PB,Punjab,Peri-Urban,Small,70,30.2998,76.4469,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_PTA_005,005,Devigarh,PB_PTA,Patiala,PB,Punjab,Rural,Small,70,30.2398,76.4769,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_BTI_001,001,Talwandi Sabo,PB_BTI,Bathinda,PB,Punjab,Peri-Urban,Medium,70,30.091,75.0655,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_BTI_002,002,Rampura Phul,PB_BTI,Bathinda,PB,Punjab,Peri-Urban,High,70,30.311,75.0955,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_BTI_003,003,Maur,PB_BTI,Bathinda,PB,Punjab,Rural,Medium,70,30.151,75.0855,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_BTI_004,004,Goniana,PB_BTI,Bathinda,PB,Punjab,Rural,Small,70,30.301,74.8855,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_PB_BTI_005,005,Sangat,PB_BTI,Bathinda,PB,Punjab,Rural,Small,70,30.101,74.8655,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_AMD_001,001,Sanand,GJ_AMD,Ahmedabad,GJ,Gujarat,Peri-Urban,High,70,22.9925,72.4314,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_AMD_002,002,Dholka,GJ_AMD,Ahmedabad,GJ,Gujarat,Rural,Medium,70,22.8725,72.5114,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_AMD_003,003,Viramgam,GJ_AMD,Ahmedabad,GJ,Gujarat,Rural,Medium,70,23.1425,72.3514,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_AMD_004,004,Bavla,GJ_AMD,Ahmedabad,GJ,Gujarat,Peri-Urban,Medium,70,22.9225,72.4614,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_AMD_005,005,Daskroi,GJ_AMD,Ahmedabad,GJ,Gujarat,Peri-Urban,High,70,23.0725,72.6314,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_SRT_001,001,Olpad,GJ_SRT,Surat,GJ,Gujarat,Rural,Medium,70,21.2802,72.7611,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_SRT_002,002,Kamrej,GJ_SRT,Surat,GJ,Gujarat,Urban,High,70,21.2302,72.9111,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_SRT_003,003,Bardoli,GJ_SRT,Surat,GJ,Gujarat,Peri-Urban,High,70,21.1202,72.9911,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_SRT_004,004,Mandvi,GJ_SRT,Surat,GJ,Gujarat,Rural,Small,70,21.2702,73.0311,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_SRT_005,005,Mangrol,GJ_SRT,Surat,GJ,Gujarat,Rural,Medium,70,21.3402,72.9411,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_BRD_001,001,Dabhoi,GJ_BRD,Vadodara,GJ,Gujarat,Peri-Urban,Medium,70,22.2172,73.3212,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_BRD_002,002,Waghodia,GJ_BRD,Vadodara,GJ,Gujarat,Rural,Small,70,22.3472,73.3012,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_BRD_003,003,Padra,GJ_BRD,Vadodara,GJ,Gujarat,Peri-Urban,High,70,22.2472,73.0812,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_BRD_004,004,Karjan,GJ_BRD,Vadodara,GJ,Gujarat,Rural,Medium,70,22.1672,73.2112,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_BRD_005,005,Savli,GJ_BRD,Vadodara,GJ,Gujarat,Rural,Small,70,22.4372,73.2312,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_RJT_001,001,Gondal,GJ_RJT,Rajkot,GJ,Gujarat,Peri-Urban,High,70,22.1639,70.8022,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_RJT_002,002,Jetpur,GJ_RJT,Rajkot,GJ,Gujarat,Peri-Urban,High,70,22.0839,70.7522,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_RJT_003,003,Jasdan,GJ_RJT,Rajkot,GJ,Gujarat,Rural,Medium,70,22.2739,71.0222,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_RJT_004,004,Dhoraji,GJ_RJT,Rajkot,GJ,Gujarat,Rural,Medium,70,22.0539,70.6222,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_RJT_005,005,Kotda Sangani,GJ_RJT,Rajkot,GJ,Gujarat,Rural,Small,70,22.2239,70.8722,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_GND_001,001,Kalol,GJ_GND,Gandhinagar,GJ,Gujarat,Urban,High,70,23.2456,72.5069,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_GND_002,002,Dehgam,GJ_GND,Gandhinagar,GJ,Gujarat,Rural,Medium,70,23.1756,72.7969,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_GND_003,003,Mansa,GJ_GND,Gandhinagar,GJ,Gujarat,Rural,Medium,70,23.3756,72.5969,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_GND_004,004,Chiloda,GJ_GND,Gandhinagar,GJ,Gujarat,Peri-Urban,Small,70,23.2656,72.7169,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration
+VIL_GJ_GND_005,005,Pethapur,GJ_GND,Gandhinagar,GJ,Gujarat,Peri-Urban,Medium,70,23.2556,72.6069,SYNTHETIC_CADASTRAL_ZONE,SYNTHETIC,Generated synthetic village zone for Land Stack demonstration

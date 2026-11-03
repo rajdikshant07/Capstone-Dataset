@@ -1,0 +1,117 @@
+{
+  "exploration_timestamp": "2026-11-02T19:02:11.631589+00:00",
+  "crs": "EPSG:4326 (WGS 84 - 2D Geographic Coordinate Reference System)",
+  "dataset_record_counts": {
+    "parcels": 5250,
+    "ownership_records": 6748,
+    "ror_records": 5250,
+    "property_registration": 2500,
+    "property_tax": 10500,
+    "mortgages_encumbrances": 1250,
+    "building_permits": 950,
+    "land_restrictions": 450,
+    "audit_history": 3500,
+    "roads": 375,
+    "water_bodies": 105,
+    "utilities": 900
+  },
+  "geometry_integrity": {
+    "geometry_types": {
+      "Polygon": 5250
+    },
+    "total_valid_polygons": 5250,
+    "total_closed_rings": 5250,
+    "geometry_validity_percentage": 100.0
+  },
+  "key_uniqueness": {
+    "duplicate_parcel_ids": 0,
+    "duplicate_ulpins": 0,
+    "uniqueness_verified": true
+  },
+  "state_wise_parcels": {
+    "Maharashtra": 1750,
+    "Punjab": 1750,
+    "Gujarat": 1750
+  },
+  "district_wise_parcels": {
+    "Pune": 350,
+    "Nagpur": 350,
+    "Nashik": 350,
+    "Chhatrapati Sambhajinagar": 350,
+    "Kolhapur": 350,
+    "Amritsar": 350,
+    "Ludhiana": 350,
+    "Jalandhar": 350,
+    "Patiala": 350,
+    "Bathinda": 350,
+    "Ahmedabad": 350,
+    "Surat": 350,
+    "Vadodara": 350,
+    "Rajkot": 350,
+    "Gandhinagar": 350
+  },
+  "land_use_distribution": {
+    "Agricultural": 1749,
+    "Residential": 1623,
+    "Commercial": 464,
+    "Mixed Use": 390,
+    "Vacant Land": 290,
+    "Government": 269,
+    "Industrial": 249,
+    "Forest": 216
+  },
+  "land_type_distribution": {
+    "Non-Agricultural": 3151,
+    "Agricultural": 1883,
+    "Forest Land": 216
+  },
+  "parcel_area_statistics_sq_m": {
+    "min": 214.14,
+    "max": 470582.41,
+    "mean": 57667.732887619044,
+    "median": 39337.075,
+    "std": 57284.917288555116,
+    "25th_percentile": 15422.1325,
+    "75th_percentile": 79855.235
+  },
+  "parcel_area_statistics_hectares": {
+    "min": 0.0214,
+    "max": 47.0582,
+    "mean": 5.76677339047619,
+    "median": 3.9337
+  },
+  "foreign_key_integrity": {
+    "ownership_fk_valid_count": 6748,
+    "ror_fk_valid_count": 5250,
+    "registration_fk_valid_count": 2500,
+    "tax_fk_valid_count": 10500,
+    "mortgages_fk_valid_count": 1250,
+    "permits_fk_valid_count": 950,
+    "restrictions_fk_valid_count": 450,
+    "audit_fk_valid_count": 3500
+  },
+  "null_value_analysis": {
+    "parcel_id": 0,
+    "state_id": 0,
+    "state_name": 0,
+    "district_id": 0,
+    "district_name": 0,
+    "village_id": 0,
+    "village_name": 0,
+    "survey_number": 0,
+    "sub_survey_number": 0,
+    "parcel_number": 0,
+    "land_type": 0,
+    "land_use_category": 0,
+    "area_sq_m": 0,
+    "area_hectares": 0,
+    "perimeter_m": 0,
+    "centroid_latitude": 0,
+    "centroid_longitude": 0,
+    "simulated_ulpin": 0,
+    "record_status": 0,
+    "created_at": 0,
+    "updated_at": 0,
+    "data_status": 0
+  }
+}

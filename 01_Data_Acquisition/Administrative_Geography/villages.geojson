@@ -1,0 +1,3536 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_PUN_001",
+        "village_code": "001",
+        "village_name": "Wagholi",
+        "district_id": "MH_PUN",
+        "district_name": "Pune",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 18.5654,
+        "centroid_longitude": 73.9387,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9567,
+              18.549400000000002
+            ],
+            [
+              73.9567,
+              18.5814
+            ],
+            [
+              73.9207,
+              18.5814
+            ],
+            [
+              73.9207,
+              18.549400000000002
+            ],
+            [
+              73.9567,
+              18.549400000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_PUN_002",
+        "village_code": "002",
+        "village_name": "Manchar",
+        "district_id": "MH_PUN",
+        "district_name": "Pune",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 18.6404,
+        "centroid_longitude": 73.8067,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8247,
+              18.6244
+            ],
+            [
+              73.8247,
+              18.656399999999998
+            ],
+            [
+              73.7887,
+              18.656399999999998
+            ],
+            [
+              73.7887,
+              18.6244
+            ],
+            [
+              73.8247,
+              18.6244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_PUN_003",
+        "village_code": "003",
+        "village_name": "Hinjawadi",
+        "district_id": "MH_PUN",
+        "district_name": "Pune",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 18.5904,
+        "centroid_longitude": 73.7467,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7647,
+              18.5744
+            ],
+            [
+              73.7647,
+              18.606399999999997
+            ],
+            [
+              73.7287,
+              18.606399999999997
+            ],
+            [
+              73.7287,
+              18.5744
+            ],
+            [
+              73.7647,
+              18.5744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_PUN_004",
+        "village_code": "004",
+        "village_name": "Shirur",
+        "district_id": "MH_PUN",
+        "district_name": "Pune",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 18.6304,
+        "centroid_longitude": 74.0067,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.0247,
+              18.614400000000003
+            ],
+            [
+              74.0247,
+              18.6464
+            ],
+            [
+              73.9887,
+              18.6464
+            ],
+            [
+              73.9887,
+              18.614400000000003
+            ],
+            [
+              74.0247,
+              18.614400000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_PUN_005",
+        "village_code": "005",
+        "village_name": "Baramati",
+        "district_id": "MH_PUN",
+        "district_name": "Pune",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 18.3704,
+        "centroid_longitude": 73.9767,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9947,
+              18.354400000000002
+            ],
+            [
+              73.9947,
+              18.3864
+            ],
+            [
+              73.9587,
+              18.3864
+            ],
+            [
+              73.9587,
+              18.354400000000002
+            ],
+            [
+              73.9947,
+              18.354400000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NAG_001",
+        "village_code": "001",
+        "village_name": "Kalmeshwar",
+        "district_id": "MH_NAG",
+        "district_name": "Nagpur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.2358,
+        "centroid_longitude": 79.0182,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0362,
+              21.219800000000003
+            ],
+            [
+              79.0362,
+              21.2518
+            ],
+            [
+              79.00019999999999,
+              21.2518
+            ],
+            [
+              79.00019999999999,
+              21.219800000000003
+            ],
+            [
+              79.0362,
+              21.219800000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NAG_002",
+        "village_code": "002",
+        "village_name": "Saoner",
+        "district_id": "MH_NAG",
+        "district_name": "Nagpur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.2858,
+        "centroid_longitude": 79.1182,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1362,
+              21.2698
+            ],
+            [
+              79.1362,
+              21.301799999999997
+            ],
+            [
+              79.1002,
+              21.301799999999997
+            ],
+            [
+              79.1002,
+              21.2698
+            ],
+            [
+              79.1362,
+              21.2698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NAG_003",
+        "village_code": "003",
+        "village_name": "Hingna",
+        "district_id": "MH_NAG",
+        "district_name": "Nagpur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.0858,
+        "centroid_longitude": 79.0382,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.0562,
+              21.0698
+            ],
+            [
+              79.0562,
+              21.101799999999997
+            ],
+            [
+              79.0202,
+              21.101799999999997
+            ],
+            [
+              79.0202,
+              21.0698
+            ],
+            [
+              79.0562,
+              21.0698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NAG_004",
+        "village_code": "004",
+        "village_name": "Kamptee",
+        "district_id": "MH_NAG",
+        "district_name": "Nagpur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.2158,
+        "centroid_longitude": 79.1682,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1862,
+              21.199800000000003
+            ],
+            [
+              79.1862,
+              21.2318
+            ],
+            [
+              79.1502,
+              21.2318
+            ],
+            [
+              79.1502,
+              21.199800000000003
+            ],
+            [
+              79.1862,
+              21.199800000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NAG_005",
+        "village_code": "005",
+        "village_name": "Umred",
+        "district_id": "MH_NAG",
+        "district_name": "Nagpur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.0358,
+        "centroid_longitude": 79.1782,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.1962,
+              21.0198
+            ],
+            [
+              79.1962,
+              21.051799999999997
+            ],
+            [
+              79.1602,
+              21.051799999999997
+            ],
+            [
+              79.1602,
+              21.0198
+            ],
+            [
+              79.1962,
+              21.0198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NSK_001",
+        "village_code": "001",
+        "village_name": "Ozar",
+        "district_id": "MH_NSK",
+        "district_name": "Nashik",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 20.0575,
+        "centroid_longitude": 73.8698,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8878,
+              20.041500000000003
+            ],
+            [
+              73.8878,
+              20.0735
+            ],
+            [
+              73.8518,
+              20.0735
+            ],
+            [
+              73.8518,
+              20.041500000000003
+            ],
+            [
+              73.8878,
+              20.041500000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NSK_002",
+        "village_code": "002",
+        "village_name": "Sinnar",
+        "district_id": "MH_NSK",
+        "district_name": "Nashik",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 19.9175,
+        "centroid_longitude": 73.8498,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8678,
+              19.901500000000002
+            ],
+            [
+              73.8678,
+              19.9335
+            ],
+            [
+              73.8318,
+              19.9335
+            ],
+            [
+              73.8318,
+              19.901500000000002
+            ],
+            [
+              73.8678,
+              19.901500000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NSK_003",
+        "village_code": "003",
+        "village_name": "Dindori",
+        "district_id": "MH_NSK",
+        "district_name": "Nashik",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 20.1175,
+        "centroid_longitude": 73.7498,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7678,
+              20.1015
+            ],
+            [
+              73.7678,
+              20.133499999999998
+            ],
+            [
+              73.73179999999999,
+              20.133499999999998
+            ],
+            [
+              73.73179999999999,
+              20.1015
+            ],
+            [
+              73.7678,
+              20.1015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NSK_004",
+        "village_code": "004",
+        "village_name": "Niphad",
+        "district_id": "MH_NSK",
+        "district_name": "Nashik",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 20.0475,
+        "centroid_longitude": 73.9398,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9578,
+              20.0315
+            ],
+            [
+              73.9578,
+              20.063499999999998
+            ],
+            [
+              73.9218,
+              20.063499999999998
+            ],
+            [
+              73.9218,
+              20.0315
+            ],
+            [
+              73.9578,
+              20.0315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_NSK_005",
+        "village_code": "005",
+        "village_name": "Igatpuri",
+        "district_id": "MH_NSK",
+        "district_name": "Nashik",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 19.8775,
+        "centroid_longitude": 73.7098,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.7278,
+              19.861500000000003
+            ],
+            [
+              73.7278,
+              19.8935
+            ],
+            [
+              73.6918,
+              19.8935
+            ],
+            [
+              73.6918,
+              19.861500000000003
+            ],
+            [
+              73.7278,
+              19.861500000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_CSN_001",
+        "village_code": "001",
+        "village_name": "Paithan",
+        "district_id": "MH_CSN",
+        "district_name": "Chhatrapati Sambhajinagar",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 19.7562,
+        "centroid_longitude": 75.3833,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.4013,
+              19.7402
+            ],
+            [
+              75.4013,
+              19.772199999999998
+            ],
+            [
+              75.3653,
+              19.772199999999998
+            ],
+            [
+              75.3653,
+              19.7402
+            ],
+            [
+              75.4013,
+              19.7402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_CSN_002",
+        "village_code": "002",
+        "village_name": "Gangapur",
+        "district_id": "MH_CSN",
+        "district_name": "Chhatrapati Sambhajinagar",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 19.8462,
+        "centroid_longitude": 75.2233,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.2413,
+              19.8302
+            ],
+            [
+              75.2413,
+              19.862199999999998
+            ],
+            [
+              75.2053,
+              19.862199999999998
+            ],
+            [
+              75.2053,
+              19.8302
+            ],
+            [
+              75.2413,
+              19.8302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_CSN_003",
+        "village_code": "003",
+        "village_name": "Vaijapur",
+        "district_id": "MH_CSN",
+        "district_name": "Chhatrapati Sambhajinagar",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 19.9262,
+        "centroid_longitude": 75.1933,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.2113,
+              19.910200000000003
+            ],
+            [
+              75.2113,
+              19.9422
+            ],
+            [
+              75.1753,
+              19.9422
+            ],
+            [
+              75.1753,
+              19.910200000000003
+            ],
+            [
+              75.2113,
+              19.910200000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_CSN_004",
+        "village_code": "004",
+        "village_name": "Khuldabad",
+        "district_id": "MH_CSN",
+        "district_name": "Chhatrapati Sambhajinagar",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 19.9562,
+        "centroid_longitude": 75.3033,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3213,
+              19.9402
+            ],
+            [
+              75.3213,
+              19.972199999999997
+            ],
+            [
+              75.28529999999999,
+              19.972199999999997
+            ],
+            [
+              75.28529999999999,
+              19.9402
+            ],
+            [
+              75.3213,
+              19.9402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_CSN_005",
+        "village_code": "005",
+        "village_name": "Kannad",
+        "district_id": "MH_CSN",
+        "district_name": "Chhatrapati Sambhajinagar",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 20.0262,
+        "centroid_longitude": 75.3133,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.3313,
+              20.0102
+            ],
+            [
+              75.3313,
+              20.042199999999998
+            ],
+            [
+              75.2953,
+              20.042199999999998
+            ],
+            [
+              75.2953,
+              20.0102
+            ],
+            [
+              75.3313,
+              20.0102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_KOL_001",
+        "village_code": "001",
+        "village_name": "Panhala",
+        "district_id": "MH_KOL",
+        "district_name": "Kolhapur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 16.775,
+        "centroid_longitude": 74.1533,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.1713,
+              16.759
+            ],
+            [
+              74.1713,
+              16.790999999999997
+            ],
+            [
+              74.1353,
+              16.790999999999997
+            ],
+            [
+              74.1353,
+              16.759
+            ],
+            [
+              74.1713,
+              16.759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_KOL_002",
+        "village_code": "002",
+        "village_name": "Karveer",
+        "district_id": "MH_KOL",
+        "district_name": "Kolhapur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 16.725,
+        "centroid_longitude": 74.2833,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.3013,
+              16.709000000000003
+            ],
+            [
+              74.3013,
+              16.741
+            ],
+            [
+              74.2653,
+              16.741
+            ],
+            [
+              74.2653,
+              16.709000000000003
+            ],
+            [
+              74.3013,
+              16.709000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_KOL_003",
+        "village_code": "003",
+        "village_name": "Hatkanangle",
+        "district_id": "MH_KOL",
+        "district_name": "Kolhapur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 16.755,
+        "centroid_longitude": 74.3633,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.3813,
+              16.739
+            ],
+            [
+              74.3813,
+              16.770999999999997
+            ],
+            [
+              74.3453,
+              16.770999999999997
+            ],
+            [
+              74.3453,
+              16.739
+            ],
+            [
+              74.3813,
+              16.739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_KOL_004",
+        "village_code": "004",
+        "village_name": "Shirol",
+        "district_id": "MH_KOL",
+        "district_name": "Kolhapur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 16.745,
+        "centroid_longitude": 74.4233,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.4413,
+              16.729000000000003
+            ],
+            [
+              74.4413,
+              16.761
+            ],
+            [
+              74.4053,
+              16.761
+            ],
+            [
+              74.4053,
+              16.729000000000003
+            ],
+            [
+              74.4413,
+              16.729000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_MH_KOL_005",
+        "village_code": "005",
+        "village_name": "Radhanagari",
+        "district_id": "MH_KOL",
+        "district_name": "Kolhapur",
+        "state_id": "MH",
+        "state_name": "Maharashtra",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 16.565,
+        "centroid_longitude": 74.1833,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.2013,
+              16.549000000000003
+            ],
+            [
+              74.2013,
+              16.581
+            ],
+            [
+              74.1653,
+              16.581
+            ],
+            [
+              74.1653,
+              16.549000000000003
+            ],
+            [
+              74.2013,
+              16.549000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_ASR_001",
+        "village_code": "001",
+        "village_name": "Ajnala",
+        "district_id": "PB_ASR",
+        "district_name": "Amritsar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.784,
+        "centroid_longitude": 74.8223,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8403,
+              31.768
+            ],
+            [
+              74.8403,
+              31.799999999999997
+            ],
+            [
+              74.8043,
+              31.799999999999997
+            ],
+            [
+              74.8043,
+              31.768
+            ],
+            [
+              74.8403,
+              31.768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_ASR_002",
+        "village_code": "002",
+        "village_name": "Majitha",
+        "district_id": "PB_ASR",
+        "district_name": "Amritsar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.714,
+        "centroid_longitude": 74.9323,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9503,
+              31.698
+            ],
+            [
+              74.9503,
+              31.729999999999997
+            ],
+            [
+              74.9143,
+              31.729999999999997
+            ],
+            [
+              74.9143,
+              31.698
+            ],
+            [
+              74.9503,
+              31.698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_ASR_003",
+        "village_code": "003",
+        "village_name": "Attari",
+        "district_id": "PB_ASR",
+        "district_name": "Amritsar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.594,
+        "centroid_longitude": 74.7323,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.7503,
+              31.578000000000003
+            ],
+            [
+              74.7503,
+              31.61
+            ],
+            [
+              74.7143,
+              31.61
+            ],
+            [
+              74.7143,
+              31.578000000000003
+            ],
+            [
+              74.7503,
+              31.578000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_ASR_004",
+        "village_code": "004",
+        "village_name": "Jandiala Guru",
+        "district_id": "PB_ASR",
+        "district_name": "Amritsar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.584,
+        "centroid_longitude": 74.9523,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9703,
+              31.568
+            ],
+            [
+              74.9703,
+              31.599999999999998
+            ],
+            [
+              74.9343,
+              31.599999999999998
+            ],
+            [
+              74.9343,
+              31.568
+            ],
+            [
+              74.9703,
+              31.568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_ASR_005",
+        "village_code": "005",
+        "village_name": "Rayya",
+        "district_id": "PB_ASR",
+        "district_name": "Amritsar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.554,
+        "centroid_longitude": 75.0123,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.0303,
+              31.538
+            ],
+            [
+              75.0303,
+              31.569999999999997
+            ],
+            [
+              74.9943,
+              31.569999999999997
+            ],
+            [
+              74.9943,
+              31.538
+            ],
+            [
+              75.0303,
+              31.538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_LDH_001",
+        "village_code": "001",
+        "village_name": "Khanna",
+        "district_id": "PB_LDH",
+        "district_name": "Ludhiana",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.821,
+        "centroid_longitude": 76.0373,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0553,
+              30.805000000000003
+            ],
+            [
+              76.0553,
+              30.837
+            ],
+            [
+              76.0193,
+              30.837
+            ],
+            [
+              76.0193,
+              30.805000000000003
+            ],
+            [
+              76.0553,
+              30.805000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_LDH_002",
+        "village_code": "002",
+        "village_name": "Jagraon",
+        "district_id": "PB_LDH",
+        "district_name": "Ludhiana",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.861,
+        "centroid_longitude": 75.7073,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7253,
+              30.845000000000002
+            ],
+            [
+              75.7253,
+              30.877
+            ],
+            [
+              75.6893,
+              30.877
+            ],
+            [
+              75.6893,
+              30.845000000000002
+            ],
+            [
+              75.7253,
+              30.845000000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_LDH_003",
+        "village_code": "003",
+        "village_name": "Samrala",
+        "district_id": "PB_LDH",
+        "district_name": "Ludhiana",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.941,
+        "centroid_longitude": 75.9973,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0153,
+              30.925
+            ],
+            [
+              76.0153,
+              30.956999999999997
+            ],
+            [
+              75.9793,
+              30.956999999999997
+            ],
+            [
+              75.9793,
+              30.925
+            ],
+            [
+              76.0153,
+              30.925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_LDH_004",
+        "village_code": "004",
+        "village_name": "Raikot",
+        "district_id": "PB_LDH",
+        "district_name": "Ludhiana",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.761,
+        "centroid_longitude": 75.7773,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7953,
+              30.745
+            ],
+            [
+              75.7953,
+              30.776999999999997
+            ],
+            [
+              75.7593,
+              30.776999999999997
+            ],
+            [
+              75.7593,
+              30.745
+            ],
+            [
+              75.7953,
+              30.745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_LDH_005",
+        "village_code": "005",
+        "village_name": "Payal",
+        "district_id": "PB_LDH",
+        "district_name": "Ludhiana",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.781,
+        "centroid_longitude": 75.9273,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9453,
+              30.765
+            ],
+            [
+              75.9453,
+              30.796999999999997
+            ],
+            [
+              75.9093,
+              30.796999999999997
+            ],
+            [
+              75.9093,
+              30.765
+            ],
+            [
+              75.9453,
+              30.765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_JAL_001",
+        "village_code": "001",
+        "village_name": "Nakodar",
+        "district_id": "PB_JAL",
+        "district_name": "Jalandhar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.206,
+        "centroid_longitude": 75.5162,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5342,
+              31.19
+            ],
+            [
+              75.5342,
+              31.221999999999998
+            ],
+            [
+              75.4982,
+              31.221999999999998
+            ],
+            [
+              75.4982,
+              31.19
+            ],
+            [
+              75.5342,
+              31.19
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_JAL_002",
+        "village_code": "002",
+        "village_name": "Phillaur",
+        "district_id": "PB_JAL",
+        "district_name": "Jalandhar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.166,
+        "centroid_longitude": 75.6662,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.6842,
+              31.150000000000002
+            ],
+            [
+              75.6842,
+              31.182
+            ],
+            [
+              75.6482,
+              31.182
+            ],
+            [
+              75.6482,
+              31.150000000000002
+            ],
+            [
+              75.6842,
+              31.150000000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_JAL_003",
+        "village_code": "003",
+        "village_name": "Shahkot",
+        "district_id": "PB_JAL",
+        "district_name": "Jalandhar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.226,
+        "centroid_longitude": 75.4362,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.4542,
+              31.21
+            ],
+            [
+              75.4542,
+              31.241999999999997
+            ],
+            [
+              75.4182,
+              31.241999999999997
+            ],
+            [
+              75.4182,
+              31.21
+            ],
+            [
+              75.4542,
+              31.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_JAL_004",
+        "village_code": "004",
+        "village_name": "Goraya",
+        "district_id": "PB_JAL",
+        "district_name": "Jalandhar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.186,
+        "centroid_longitude": 75.6162,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.6342,
+              31.17
+            ],
+            [
+              75.6342,
+              31.201999999999998
+            ],
+            [
+              75.5982,
+              31.201999999999998
+            ],
+            [
+              75.5982,
+              31.17
+            ],
+            [
+              75.6342,
+              31.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_JAL_005",
+        "village_code": "005",
+        "village_name": "Kartarpur",
+        "district_id": "PB_JAL",
+        "district_name": "Jalandhar",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 31.396,
+        "centroid_longitude": 75.4962,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5142,
+              31.380000000000003
+            ],
+            [
+              75.5142,
+              31.412
+            ],
+            [
+              75.4782,
+              31.412
+            ],
+            [
+              75.4782,
+              31.380000000000003
+            ],
+            [
+              75.5142,
+              31.380000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_PTA_001",
+        "village_code": "001",
+        "village_name": "Nabha",
+        "district_id": "PB_PTA",
+        "district_name": "Patiala",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.3698,
+        "centroid_longitude": 76.2369,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2549,
+              30.353800000000003
+            ],
+            [
+              76.2549,
+              30.3858
+            ],
+            [
+              76.2189,
+              30.3858
+            ],
+            [
+              76.2189,
+              30.353800000000003
+            ],
+            [
+              76.2549,
+              30.353800000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_PTA_002",
+        "village_code": "002",
+        "village_name": "Rajpura",
+        "district_id": "PB_PTA",
+        "district_name": "Patiala",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.4598,
+        "centroid_longitude": 76.5269,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.5449,
+              30.443800000000003
+            ],
+            [
+              76.5449,
+              30.4758
+            ],
+            [
+              76.5089,
+              30.4758
+            ],
+            [
+              76.5089,
+              30.443800000000003
+            ],
+            [
+              76.5449,
+              30.443800000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_PTA_003",
+        "village_code": "003",
+        "village_name": "Samana",
+        "district_id": "PB_PTA",
+        "district_name": "Patiala",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.2198,
+        "centroid_longitude": 76.2969,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.3149,
+              30.2038
+            ],
+            [
+              76.3149,
+              30.235799999999998
+            ],
+            [
+              76.2789,
+              30.235799999999998
+            ],
+            [
+              76.2789,
+              30.2038
+            ],
+            [
+              76.3149,
+              30.2038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_PTA_004",
+        "village_code": "004",
+        "village_name": "Sanaur",
+        "district_id": "PB_PTA",
+        "district_name": "Patiala",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.2998,
+        "centroid_longitude": 76.4469,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.4649,
+              30.283800000000003
+            ],
+            [
+              76.4649,
+              30.3158
+            ],
+            [
+              76.4289,
+              30.3158
+            ],
+            [
+              76.4289,
+              30.283800000000003
+            ],
+            [
+              76.4649,
+              30.283800000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_PTA_005",
+        "village_code": "005",
+        "village_name": "Devigarh",
+        "district_id": "PB_PTA",
+        "district_name": "Patiala",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.2398,
+        "centroid_longitude": 76.4769,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.4949,
+              30.2238
+            ],
+            [
+              76.4949,
+              30.255799999999997
+            ],
+            [
+              76.4589,
+              30.255799999999997
+            ],
+            [
+              76.4589,
+              30.2238
+            ],
+            [
+              76.4949,
+              30.2238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_BTI_001",
+        "village_code": "001",
+        "village_name": "Talwandi Sabo",
+        "district_id": "PB_BTI",
+        "district_name": "Bathinda",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.091,
+        "centroid_longitude": 75.0655,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.0835,
+              30.075000000000003
+            ],
+            [
+              75.0835,
+              30.107
+            ],
+            [
+              75.0475,
+              30.107
+            ],
+            [
+              75.0475,
+              30.075000000000003
+            ],
+            [
+              75.0835,
+              30.075000000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_BTI_002",
+        "village_code": "002",
+        "village_name": "Rampura Phul",
+        "district_id": "PB_BTI",
+        "district_name": "Bathinda",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.311,
+        "centroid_longitude": 75.0955,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.1135,
+              30.295
+            ],
+            [
+              75.1135,
+              30.326999999999998
+            ],
+            [
+              75.0775,
+              30.326999999999998
+            ],
+            [
+              75.0775,
+              30.295
+            ],
+            [
+              75.1135,
+              30.295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_BTI_003",
+        "village_code": "003",
+        "village_name": "Maur",
+        "district_id": "PB_BTI",
+        "district_name": "Bathinda",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.151,
+        "centroid_longitude": 75.0855,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.1035,
+              30.135
+            ],
+            [
+              75.1035,
+              30.166999999999998
+            ],
+            [
+              75.0675,
+              30.166999999999998
+            ],
+            [
+              75.0675,
+              30.135
+            ],
+            [
+              75.1035,
+              30.135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_BTI_004",
+        "village_code": "004",
+        "village_name": "Goniana",
+        "district_id": "PB_BTI",
+        "district_name": "Bathinda",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.301,
+        "centroid_longitude": 74.8855,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.9035,
+              30.285
+            ],
+            [
+              74.9035,
+              30.316999999999997
+            ],
+            [
+              74.86749999999999,
+              30.316999999999997
+            ],
+            [
+              74.86749999999999,
+              30.285
+            ],
+            [
+              74.9035,
+              30.285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_PB_BTI_005",
+        "village_code": "005",
+        "village_name": "Sangat",
+        "district_id": "PB_BTI",
+        "district_name": "Bathinda",
+        "state_id": "PB",
+        "state_name": "Punjab",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 30.101,
+        "centroid_longitude": 74.8655,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8835,
+              30.085
+            ],
+            [
+              74.8835,
+              30.116999999999997
+            ],
+            [
+              74.8475,
+              30.116999999999997
+            ],
+            [
+              74.8475,
+              30.085
+            ],
+            [
+              74.8835,
+              30.085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_AMD_001",
+        "village_code": "001",
+        "village_name": "Sanand",
+        "district_id": "GJ_AMD",
+        "district_name": "Ahmedabad",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.9925,
+        "centroid_longitude": 72.4314,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4494,
+              22.9765
+            ],
+            [
+              72.4494,
+              23.008499999999998
+            ],
+            [
+              72.4134,
+              23.008499999999998
+            ],
+            [
+              72.4134,
+              22.9765
+            ],
+            [
+              72.4494,
+              22.9765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_AMD_002",
+        "village_code": "002",
+        "village_name": "Dholka",
+        "district_id": "GJ_AMD",
+        "district_name": "Ahmedabad",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.8725,
+        "centroid_longitude": 72.5114,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5294,
+              22.8565
+            ],
+            [
+              72.5294,
+              22.888499999999997
+            ],
+            [
+              72.4934,
+              22.888499999999997
+            ],
+            [
+              72.4934,
+              22.8565
+            ],
+            [
+              72.5294,
+              22.8565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_AMD_003",
+        "village_code": "003",
+        "village_name": "Viramgam",
+        "district_id": "GJ_AMD",
+        "district_name": "Ahmedabad",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.1425,
+        "centroid_longitude": 72.3514,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.3694,
+              23.1265
+            ],
+            [
+              72.3694,
+              23.158499999999997
+            ],
+            [
+              72.3334,
+              23.158499999999997
+            ],
+            [
+              72.3334,
+              23.1265
+            ],
+            [
+              72.3694,
+              23.1265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_AMD_004",
+        "village_code": "004",
+        "village_name": "Bavla",
+        "district_id": "GJ_AMD",
+        "district_name": "Ahmedabad",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.9225,
+        "centroid_longitude": 72.4614,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.4794,
+              22.9065
+            ],
+            [
+              72.4794,
+              22.938499999999998
+            ],
+            [
+              72.4434,
+              22.938499999999998
+            ],
+            [
+              72.4434,
+              22.9065
+            ],
+            [
+              72.4794,
+              22.9065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_AMD_005",
+        "village_code": "005",
+        "village_name": "Daskroi",
+        "district_id": "GJ_AMD",
+        "district_name": "Ahmedabad",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.0725,
+        "centroid_longitude": 72.6314,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6494,
+              23.056500000000003
+            ],
+            [
+              72.6494,
+              23.0885
+            ],
+            [
+              72.6134,
+              23.0885
+            ],
+            [
+              72.6134,
+              23.056500000000003
+            ],
+            [
+              72.6494,
+              23.056500000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_SRT_001",
+        "village_code": "001",
+        "village_name": "Olpad",
+        "district_id": "GJ_SRT",
+        "district_name": "Surat",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.2802,
+        "centroid_longitude": 72.7611,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7791,
+              21.264200000000002
+            ],
+            [
+              72.7791,
+              21.2962
+            ],
+            [
+              72.7431,
+              21.2962
+            ],
+            [
+              72.7431,
+              21.264200000000002
+            ],
+            [
+              72.7791,
+              21.264200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_SRT_002",
+        "village_code": "002",
+        "village_name": "Kamrej",
+        "district_id": "GJ_SRT",
+        "district_name": "Surat",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.2302,
+        "centroid_longitude": 72.9111,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9291,
+              21.2142
+            ],
+            [
+              72.9291,
+              21.246199999999998
+            ],
+            [
+              72.8931,
+              21.246199999999998
+            ],
+            [
+              72.8931,
+              21.2142
+            ],
+            [
+              72.9291,
+              21.2142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_SRT_003",
+        "village_code": "003",
+        "village_name": "Bardoli",
+        "district_id": "GJ_SRT",
+        "district_name": "Surat",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.1202,
+        "centroid_longitude": 72.9911,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0091,
+              21.104200000000002
+            ],
+            [
+              73.0091,
+              21.1362
+            ],
+            [
+              72.9731,
+              21.1362
+            ],
+            [
+              72.9731,
+              21.104200000000002
+            ],
+            [
+              73.0091,
+              21.104200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_SRT_004",
+        "village_code": "004",
+        "village_name": "Mandvi",
+        "district_id": "GJ_SRT",
+        "district_name": "Surat",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.2702,
+        "centroid_longitude": 73.0311,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0491,
+              21.2542
+            ],
+            [
+              73.0491,
+              21.286199999999997
+            ],
+            [
+              73.0131,
+              21.286199999999997
+            ],
+            [
+              73.0131,
+              21.2542
+            ],
+            [
+              73.0491,
+              21.2542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_SRT_005",
+        "village_code": "005",
+        "village_name": "Mangrol",
+        "district_id": "GJ_SRT",
+        "district_name": "Surat",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 21.3402,
+        "centroid_longitude": 72.9411,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9591,
+              21.3242
+            ],
+            [
+              72.9591,
+              21.356199999999998
+            ],
+            [
+              72.9231,
+              21.356199999999998
+            ],
+            [
+              72.9231,
+              21.3242
+            ],
+            [
+              72.9591,
+              21.3242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_BRD_001",
+        "village_code": "001",
+        "village_name": "Dabhoi",
+        "district_id": "GJ_BRD",
+        "district_name": "Vadodara",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.2172,
+        "centroid_longitude": 73.3212,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.3392,
+              22.2012
+            ],
+            [
+              73.3392,
+              22.233199999999997
+            ],
+            [
+              73.3032,
+              22.233199999999997
+            ],
+            [
+              73.3032,
+              22.2012
+            ],
+            [
+              73.3392,
+              22.2012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_BRD_002",
+        "village_code": "002",
+        "village_name": "Waghodia",
+        "district_id": "GJ_BRD",
+        "district_name": "Vadodara",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.3472,
+        "centroid_longitude": 73.3012,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.3192,
+              22.331200000000003
+            ],
+            [
+              73.3192,
+              22.3632
+            ],
+            [
+              73.2832,
+              22.3632
+            ],
+            [
+              73.2832,
+              22.331200000000003
+            ],
+            [
+              73.3192,
+              22.331200000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_BRD_003",
+        "village_code": "003",
+        "village_name": "Padra",
+        "district_id": "GJ_BRD",
+        "district_name": "Vadodara",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.2472,
+        "centroid_longitude": 73.0812,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0992,
+              22.2312
+            ],
+            [
+              73.0992,
+              22.263199999999998
+            ],
+            [
+              73.0632,
+              22.263199999999998
+            ],
+            [
+              73.0632,
+              22.2312
+            ],
+            [
+              73.0992,
+              22.2312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_BRD_004",
+        "village_code": "004",
+        "village_name": "Karjan",
+        "district_id": "GJ_BRD",
+        "district_name": "Vadodara",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.1672,
+        "centroid_longitude": 73.2112,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.2292,
+              22.151200000000003
+            ],
+            [
+              73.2292,
+              22.1832
+            ],
+            [
+              73.1932,
+              22.1832
+            ],
+            [
+              73.1932,
+              22.151200000000003
+            ],
+            [
+              73.2292,
+              22.151200000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_BRD_005",
+        "village_code": "005",
+        "village_name": "Savli",
+        "district_id": "GJ_BRD",
+        "district_name": "Vadodara",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.4372,
+        "centroid_longitude": 73.2312,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.2492,
+              22.421200000000002
+            ],
+            [
+              73.2492,
+              22.4532
+            ],
+            [
+              73.2132,
+              22.4532
+            ],
+            [
+              73.2132,
+              22.421200000000002
+            ],
+            [
+              73.2492,
+              22.421200000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_RJT_001",
+        "village_code": "001",
+        "village_name": "Gondal",
+        "district_id": "GJ_RJT",
+        "district_name": "Rajkot",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.1639,
+        "centroid_longitude": 70.8022,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.8202,
+              22.147900000000003
+            ],
+            [
+              70.8202,
+              22.1799
+            ],
+            [
+              70.7842,
+              22.1799
+            ],
+            [
+              70.7842,
+              22.147900000000003
+            ],
+            [
+              70.8202,
+              22.147900000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_RJT_002",
+        "village_code": "002",
+        "village_name": "Jetpur",
+        "district_id": "GJ_RJT",
+        "district_name": "Rajkot",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.0839,
+        "centroid_longitude": 70.7522,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.7702,
+              22.0679
+            ],
+            [
+              70.7702,
+              22.099899999999998
+            ],
+            [
+              70.7342,
+              22.099899999999998
+            ],
+            [
+              70.7342,
+              22.0679
+            ],
+            [
+              70.7702,
+              22.0679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_RJT_003",
+        "village_code": "003",
+        "village_name": "Jasdan",
+        "district_id": "GJ_RJT",
+        "district_name": "Rajkot",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.2739,
+        "centroid_longitude": 71.0222,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              71.0402,
+              22.257900000000003
+            ],
+            [
+              71.0402,
+              22.2899
+            ],
+            [
+              71.0042,
+              22.2899
+            ],
+            [
+              71.0042,
+              22.257900000000003
+            ],
+            [
+              71.0402,
+              22.257900000000003
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_RJT_004",
+        "village_code": "004",
+        "village_name": "Dhoraji",
+        "district_id": "GJ_RJT",
+        "district_name": "Rajkot",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.0539,
+        "centroid_longitude": 70.6222,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.64020000000001,
+              22.0379
+            ],
+            [
+              70.64020000000001,
+              22.069899999999997
+            ],
+            [
+              70.6042,
+              22.069899999999997
+            ],
+            [
+              70.6042,
+              22.0379
+            ],
+            [
+              70.64020000000001,
+              22.0379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_RJT_005",
+        "village_code": "005",
+        "village_name": "Kotda Sangani",
+        "district_id": "GJ_RJT",
+        "district_name": "Rajkot",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 22.2239,
+        "centroid_longitude": 70.8722,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.89020000000001,
+              22.207900000000002
+            ],
+            [
+              70.89020000000001,
+              22.2399
+            ],
+            [
+              70.8542,
+              22.2399
+            ],
+            [
+              70.8542,
+              22.207900000000002
+            ],
+            [
+              70.89020000000001,
+              22.207900000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_GND_001",
+        "village_code": "001",
+        "village_name": "Kalol",
+        "district_id": "GJ_GND",
+        "district_name": "Gandhinagar",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Urban",
+        "population_category": "High",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.2456,
+        "centroid_longitude": 72.5069,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.5249,
+              23.2296
+            ],
+            [
+              72.5249,
+              23.261599999999998
+            ],
+            [
+              72.4889,
+              23.261599999999998
+            ],
+            [
+              72.4889,
+              23.2296
+            ],
+            [
+              72.5249,
+              23.2296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_GND_002",
+        "village_code": "002",
+        "village_name": "Dehgam",
+        "district_id": "GJ_GND",
+        "district_name": "Gandhinagar",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.1756,
+        "centroid_longitude": 72.7969,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.8149,
+              23.1596
+            ],
+            [
+              72.8149,
+              23.191599999999998
+            ],
+            [
+              72.7789,
+              23.191599999999998
+            ],
+            [
+              72.7789,
+              23.1596
+            ],
+            [
+              72.8149,
+              23.1596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_GND_003",
+        "village_code": "003",
+        "village_name": "Mansa",
+        "district_id": "GJ_GND",
+        "district_name": "Gandhinagar",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Rural",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.3756,
+        "centroid_longitude": 72.5969,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6149,
+              23.3596
+            ],
+            [
+              72.6149,
+              23.391599999999997
+            ],
+            [
+              72.5789,
+              23.391599999999997
+            ],
+            [
+              72.5789,
+              23.3596
+            ],
+            [
+              72.6149,
+              23.3596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_GND_004",
+        "village_code": "004",
+        "village_name": "Chiloda",
+        "district_id": "GJ_GND",
+        "district_name": "Gandhinagar",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "Small",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.2656,
+        "centroid_longitude": 72.7169,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7349,
+              23.2496
+            ],
+            [
+              72.7349,
+              23.281599999999997
+            ],
+            [
+              72.6989,
+              23.281599999999997
+            ],
+            [
+              72.6989,
+              23.2496
+            ],
+            [
+              72.7349,
+              23.2496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "village_id": "VIL_GJ_GND_005",
+        "village_code": "005",
+        "village_name": "Pethapur",
+        "district_id": "GJ_GND",
+        "district_name": "Gandhinagar",
+        "state_id": "GJ",
+        "state_name": "Gujarat",
+        "village_type": "Peri-Urban",
+        "population_category": "Medium",
+        "target_parcel_count": 70,
+        "centroid_latitude": 23.2556,
+        "centroid_longitude": 72.6069,
+        "boundary_type": "SYNTHETIC_CADASTRAL_ZONE",
+        "data_status": "SYNTHETIC",
+        "provenance": "Generated synthetic village zone for Land Stack demonstration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.6249,
+              23.239600000000003
+            ],
+            [
+              72.6249,
+              23.2716
+            ],
+            [
+              72.5889,
+              23.2716
+            ],
+            [
+              72.5889,
+              23.239600000000003
+            ],
+            [
+              72.6249,
+              23.239600000000003
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

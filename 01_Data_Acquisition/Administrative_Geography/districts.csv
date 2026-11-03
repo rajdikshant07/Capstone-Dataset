@@ -1,0 +1,16 @@
+district_id,district_code,district_name,state_id,state_name,headquarters,latitude,longitude,sample_village_count,boundary_type,data_status,provenance
+MH_PUN,01,Pune,MH,Maharashtra,Pune,18.5204,73.8567,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+MH_NAG,02,Nagpur,MH,Maharashtra,Nagpur,21.1458,79.0882,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+MH_NSK,03,Nashik,MH,Maharashtra,Nashik,19.9975,73.7898,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+MH_CSN,04,Chhatrapati Sambhajinagar,MH,Maharashtra,Chhatrapati Sambhajinagar,19.8762,75.3433,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+MH_KOL,05,Kolhapur,MH,Maharashtra,Kolhapur,16.705,74.2433,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+PB_ASR,01,Amritsar,PB,Punjab,Amritsar,31.634,74.8723,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+PB_LDH,02,Ludhiana,PB,Punjab,Ludhiana,30.901,75.8573,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+PB_JAL,03,Jalandhar,PB,Punjab,Jalandhar,31.326,75.5762,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+PB_PTA,04,Patiala,PB,Punjab,Patiala,30.3398,76.3869,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+PB_BTI,05,Bathinda,PB,Punjab,Bathinda,30.211,74.9455,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+GJ_AMD,01,Ahmedabad,GJ,Gujarat,Ahmedabad,23.0225,72.5714,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+GJ_SRT,02,Surat,GJ,Gujarat,Surat,21.1702,72.8311,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+GJ_BRD,03,Vadodara,GJ,Gujarat,Vadodara,22.3072,73.1812,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+GJ_RJT,04,Rajkot,GJ,Gujarat,Rajkot,22.3039,70.8022,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
+GJ_GND,05,Gandhinagar,GJ,Gujarat,Gandhinagar,23.2156,72.6369,5,SYNTHETIC_ENVELOPE,SYNTHETIC,Generated synthetic district anchor for Land Stack simulation
